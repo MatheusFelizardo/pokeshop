@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_15" data-name="Retângulo 15" width="20" height="20" transform="translate(32 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="all-groups" transform="translate(-32 -86)" clip-path="url(#clip-path)">
+    <g id="dry-clean" transform="translate(32 86)">
+      <g id="Grupo_38" data-name="Grupo 38">
+        <path id="Caminho_86" data-name="Caminho 86" d="M10,0A10,10,0,1,0,20,10,10.039,10.039,0,0,0,10,0Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

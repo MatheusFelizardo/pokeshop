@@ -1,0 +1,85 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 7rem;
+    width: 100%;
+    padding: 2rem ;
+    @media (min-width:300px) and (max-width: 450px) {
+        height: initial;
+        padding: .5rem ;
+    }
+    
+    .menuFirstItems { 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 3rem;
+
+        @media (min-width:300px) and (max-width: 450px) {
+            gap: .5rem;
+            justify-content: space-between;
+            flex-direction: column;
+            width: 80%;
+            align-items: flex-start;
+        }
+    }
+    .searchbar {       
+        background: var(--gray);
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        width: 50vw;
+        height: 3rem;
+        border-radius: .5rem;
+        @media (min-width:300px) and (max-width: 450px) {
+            width: 100%;
+        }
+        img {
+            margin-left: 1rem;
+        }
+        input {
+            width: 80%;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: var(--t3);
+        }
+    }
+
+    .cart {
+        cursor: pointer;
+        position:relative;
+        @media (min-width:300px) and (max-width: 450px) {
+            padding-right: 1rem;
+            align-self: flex-end;
+        }
+        img {
+            @media (min-width:300px) and (max-width: 450px) {
+                width: 3rem;
+            }
+        }
+        .cartQuantity {
+            position: absolute;
+            padding: .4rem .4rem;
+            width: 1.5rem;
+            height: 1.5rem;
+            right: -1rem;
+            top: -.5rem;
+            border-radius: 100%;
+            background: #FFF;
+            border: 2px solid var(--white);
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            @media (min-width:300px) and (max-width: 450px) {
+               right: 0;
+            }
+            span {
+                color: var(--70);
+                font-size: .85rem;
+                font-weight: 500;
+            }
+        }
+    }
+}

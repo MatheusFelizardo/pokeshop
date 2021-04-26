@@ -1,0 +1,70 @@
+:root {
+    --white: #FFF;
+    --red: #EF5350;
+    --red-light: #F8B3B2;
+    --t3: #333;
+    --t4: #444;
+    --t70: #707070;
+    --gray: #F1f1f1;
+    --border: 2px solid rgba(0,0,0,.2)
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+@media (max-width:1080px) {
+    html {
+        font-size: 93.75%;
+    }
+}
+
+@media (max-width:720px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+body {
+    overflow-x: hidden;
+    &::-webkit-scrollbar {
+        width: 5px;
+    }
+    &::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+        border-radius: 10px;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        background: var(--t70);
+    }
+}
+
+body, input,textarea, button {
+    font: 500 1rem Poppins, sans-serif;
+    color: var(--gray-500);
+    border: none;
+    outline: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+    color: var(--gray-800);
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+button {
+    cursor: pointer;
+}

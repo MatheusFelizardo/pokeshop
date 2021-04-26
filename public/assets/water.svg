@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_22" data-name="Retângulo 22" width="20" height="20" transform="translate(28 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="water" transform="translate(-28 -86)" clip-path="url(#clip-path)">
+    <g id="drop_1_" data-name="drop (1)" transform="translate(28 86)">
+      <g id="Grupo_90" data-name="Grupo 90">
+        <path id="Caminho_121" data-name="Caminho 121" d="M10.838.689c-.548-.935-1.128-.9-1.676,0-2.515,3.74-6.319,9.349-6.319,12.154a7.157,7.157,0,1,0,14.314,0C17.157,10.006,13.353,4.429,10.838.689Zm4.32,15.346A6.121,6.121,0,0,1,13,18.13a.866.866,0,0,1-.838-1.515,4.268,4.268,0,0,0,1.547-1.483,4.2,4.2,0,0,0,.645-2.063.856.856,0,0,1,1.709.1A6.387,6.387,0,0,1,15.158,16.035Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

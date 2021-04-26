@@ -1,0 +1,197 @@
+
+:global {
+    .show {
+        transition: transform .5s;
+        transform: translateX(0);
+     }
+    .hide {
+        transition: transform .5s;
+        transform: translateX(100%);
+    }
+    }
+    
+
+.cart {
+    top: 0;
+    width: 45%;
+    max-width: 600px;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    background: var(--white);
+    justify-content: space-between;
+    @media (min-width:451px) and (max-width: 768px) {
+        width: 60%;
+    }
+
+    @media (min-width:300px) and (max-width: 450px) {
+        width: 100%;
+    }
+
+    .header {
+        padding: 1rem .5rem;
+        font-size: 1.725rem;
+        color: var(--t70);
+        position: relative;
+        border-bottom: var(--border-bottom);
+        @media (min-width:300px) and (max-width: 450px) {
+            font-size: 1.5rem;
+        }
+        img {
+            position: absolute;
+            right: 1rem;
+            top: 1rem;
+            cursor: pointer;
+        }
+    }
+
+    .submenu {
+        padding: 1rem .5rem;
+        border-bottom: var(--border);
+        display: grid;
+        grid-template-columns: 50% 1fr 1fr 10%;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+        @media (min-width:300px) and (max-width: 450px) {
+            span {
+                font-size: 1rem;
+            }
+        }
+        span:first-child {
+            justify-self: center;
+            padding-right: 2rem;
+        }
+    }
+
+    
+        .cartItemWrapper {
+            font-size: 1.250rem;
+            color: var(--t4);
+            .cartItems {
+                position: relative;
+                overflow-y: scroll;
+                padding: 1rem .5rem;
+                height: calc(96px * 6.2);
+                max-height: calc(96px * 6.2);
+                @media (min-width:300px) and (max-width: 450px) {
+                    padding: 0;
+                    span {
+                        font-size: 1rem;
+                        padding: 1rem;
+                        
+                    }
+
+                }
+                &::-webkit-scrollbar {
+                    width: 5px;
+                }
+                &::-webkit-scrollbar-track {
+                    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+                    border-radius: 10px;
+                }
+                
+                &::-webkit-scrollbar-thumb {
+                    border-radius: 10px;
+                    background: var(--red);
+                }
+            .cartItem {
+                display: grid;
+                gap: 1rem;
+                grid-template-columns: 50% 1fr 1fr 10%;
+                align-items: center;
+                .product {
+                    display: flex;
+                    align-items: center;
+
+                    .pokemonImg {
+                        min-height: 96px;
+                        min-width: 96px;
+                        @media (min-width:300px) and (max-width: 768px) {
+                            min-height: 80px;
+                        min-width: 80px;
+                        }
+                    }
+                    span {
+                        text-transform: capitalize;
+                        @media (min-width:300px) and (max-width: 768px) {
+                            font-size: 0.9rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .finish {
+            border-top: var(--border);
+            padding: 1rem .5rem;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        .totalWrapper {
+            margin-bottom: 3rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .finishBtn {
+            display: flex;
+            justify-content: flex-end;
+            button {
+                padding: .4rem .8rem;
+                background: var(--red);
+                color: var(--white);
+                border-radius: .2rem;
+                &:hover {
+                    opacity: .95;
+                }
+            }
+        }
+
+    }
+}
+
+.loading {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 4;
+    :global {
+        img {
+            & :local {
+                animation: yourAnimation 1s ease-in-out infinite;
+            }
+        }
+    }
+
+    @keyframes yourAnimation {
+        from {
+            transform:rotate(0deg);
+        }
+        to {
+            transform:rotate(360deg);
+        }
+    }
+    
+    
+    
+    img {
+        width: 40px;
+        margin-bottom: .5rem;
+       
+    }
+
+    p {
+        color: var(--white);
+        font-size: 1.2rem;
+    }
+    
+}

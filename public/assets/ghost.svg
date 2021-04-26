@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_16" data-name="Retângulo 16" width="20" height="20" transform="translate(47 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="ghost" transform="translate(-47 -86)" clip-path="url(#clip-path)">
+    <g id="ghost_1_" data-name="ghost (1)" transform="translate(47 85.958)">
+      <g id="Grupo_76" data-name="Grupo 76">
+        <path id="Caminho_104" data-name="Caminho 104" d="M17.858,7.567a7.866,7.866,0,0,0-15.717,0L1.675,18.433a1.445,1.445,0,0,0,1.717,1.475l2.383-.483a2.675,2.675,0,0,1,1.092.017l2.292.508a3.91,3.91,0,0,0,1.683,0l2.292-.508a2.675,2.675,0,0,1,1.092-.017l2.375.483a1.452,1.452,0,0,0,1.225-.325,1.437,1.437,0,0,0,.5-1.15ZM7.083,11.708C5.917,11.708,5,10.425,5,8.792s.917-2.917,2.083-2.917S9.167,7.158,9.167,8.792,8.25,11.708,7.083,11.708Zm5.833,0c-1.167,0-2.083-1.283-2.083-2.917s.917-2.917,2.083-2.917S15,7.158,15,8.792,14.083,11.708,12.917,11.708Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

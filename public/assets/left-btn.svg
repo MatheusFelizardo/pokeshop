@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_25" data-name="Retângulo 25" width="20" height="20" transform="translate(48 396)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="left-btn" transform="translate(-48 -396)" clip-path="url(#clip-path)">
+    <g id="controller" transform="translate(48 396)">
+      <path id="Caminho_122" data-name="Caminho 122" d="M18.916,6.667H13.349V1.1A1.233,1.233,0,0,0,12.116,0h-4.2A1.233,1.233,0,0,0,6.683,1.1V6.667H1.116A1.233,1.233,0,0,0,.016,7.9v4.167a1.242,1.242,0,0,0,1.1,1.267H6.683V18.9A1.233,1.233,0,0,0,7.916,20h4.167a1.233,1.233,0,0,0,1.233-1.1V13.333h5.567a1.233,1.233,0,0,0,1.1-1.233V7.9A1.18,1.18,0,0,0,18.916,6.667Z" fill="#353a3a"/>
+      <path id="Caminho_123" data-name="Caminho 123" d="M.083,12.1a1.179,1.179,0,0,0,1.033,1.233H6.683V18.9A1.233,1.233,0,0,0,7.916,20h4.167a1.233,1.233,0,0,0,1.233-1.1V13.333h5.567a1.233,1.233,0,0,0,1.1-1.233V7.9a1.233,1.233,0,0,0-1.1-1.233H13.349" fill="#1a1e1e"/>
+      <path id="Caminho_124" data-name="Caminho 124" d="M11.416,2.667,10.016,1.4l-1.4,1.267Z" fill="#fff"/>
+      <path id="Caminho_125" data-name="Caminho 125" d="M11.416,2.667,10.016,1.4,9.849,2.667Z" fill="#d2d8d8"/>
+      <path id="Caminho_126" data-name="Caminho 126" d="M8.616,17.333l1.4,1.267,1.4-1.267Z" fill="#fff"/>
+      <path id="Caminho_127" data-name="Caminho 127" d="M8.616,17.333l1.4,1.267.167-1.267Z" fill="#d2d8d8"/>
+      <path id="Caminho_128" data-name="Caminho 128" d="M17.349,11.4,18.616,10,17.349,8.6Z" fill="#fff"/>
+      <path id="Caminho_129" data-name="Caminho 129" d="M17.349,11.4,18.616,10l-1.267-.167Z" fill="#d2d8d8"/>
+      <path id="Caminho_130" data-name="Caminho 130" d="M2.683,8.6,1.416,10l1.267,1.4Z" fill="#fff"/>
+      <path id="Caminho_131" data-name="Caminho 131" d="M2.683,8.6,1.416,10l1.267.167Z" fill="#d2d8d8"/>
+      <circle id="Elipse_8" data-name="Elipse 8" cx="1.233" cy="1.233" r="1.233" transform="translate(8.783 8.767)" fill="#353a3a"/>
+    </g>
+  </g>
+</svg>

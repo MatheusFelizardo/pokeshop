@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_18" data-name="Retângulo 18" width="20" height="20" transform="translate(1049 94)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_23" data-name="Grupo de máscara 23" transform="translate(-1049 -94)" clip-path="url(#clip-path)">
+    <g id="stone_1_" data-name="stone (1)" transform="translate(1049 94)">
+      <g id="Grupo_78" data-name="Grupo 78">
+        <g id="Grupo_77" data-name="Grupo 77">
+          <path id="Caminho_105" data-name="Caminho 105" d="M0,7.484v8.375a.586.586,0,0,0,.235.469l4.595,3.456Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_80" data-name="Grupo 80">
+        <g id="Grupo_79" data-name="Grupo 79">
+          <path id="Caminho_106" data-name="Caminho 106" d="M8.164,0l5.115,16.653L14.2,5.028Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_82" data-name="Grupo 82">
+        <g id="Grupo_81" data-name="Grupo 81">
+          <path id="Caminho_107" data-name="Caminho 107" d="M19.872,11.693,15.293,6.018l-1.08,13.662,5.5-3.318a.586.586,0,0,0,.284-.5v-3.8A.587.587,0,0,0,19.872,11.693Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_84" data-name="Grupo 84">
+        <g id="Grupo_83" data-name="Grupo 83">
+          <path id="Caminho_108" data-name="Caminho 108" d="M6.953.036,2.711,2.157a.6.6,0,0,0-.27.269L.421,6.378,12.4,17.771Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_86" data-name="Grupo 86">
+        <g id="Grupo_85" data-name="Grupo 85">
+          <path id="Caminho_109" data-name="Caminho 109" d="M13,19.976,2.115,9.518,6.178,20h6.834Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

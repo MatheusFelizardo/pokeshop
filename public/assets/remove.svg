@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_11" data-name="Retângulo 11" width="10" height="10" transform="translate(0 0.038)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="remove" transform="translate(0 -0.038)" clip-path="url(#clip-path)">
+    <path id="minus-solid" d="M9.286,4.643H.714A.714.714,0,0,0,0,5.357v.714a.714.714,0,0,0,.714.714H9.286A.714.714,0,0,0,10,6.071V5.357A.714.714,0,0,0,9.286,4.643Z" transform="translate(0.347 -0.714)"/>
+  </g>
+</svg>

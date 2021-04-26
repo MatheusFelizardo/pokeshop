@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_16" data-name="Retângulo 16" width="20" height="20" transform="translate(38 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="normal" transform="translate(-38 -86)" clip-path="url(#clip-path)">
+    <g id="button" transform="translate(38 86)">
+      <g id="Grupo_59" data-name="Grupo 59">
+        <g id="Grupo_58" data-name="Grupo 58">
+          <path id="Caminho_92" data-name="Caminho 92" d="M10,5a5,5,0,1,0,5,5A5,5,0,0,0,10,5Z" fill="#fff"/>
+          <path id="Caminho_93" data-name="Caminho 93" d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,10,18Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

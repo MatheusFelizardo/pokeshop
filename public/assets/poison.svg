@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_16" data-name="Retângulo 16" width="20" height="20" transform="translate(47 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="poison" transform="translate(-47 -86)" clip-path="url(#clip-path)">
+    <g id="poison-2" data-name="poison" transform="translate(47 86)">
+      <g id="Grupo_61" data-name="Grupo 61">
+        <g id="Grupo_60" data-name="Grupo 60">
+          <rect id="Retângulo_17" data-name="Retângulo 17" width="4.286" height="1.429" transform="translate(7.857)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_63" data-name="Grupo 63">
+        <g id="Grupo_62" data-name="Grupo 62">
+          <path id="Caminho_94" data-name="Caminho 94" d="M14.861,6.75l-2-1.034V3.571h1.429V2.161H5.714v1.41H7.143V5.716l-2,1.034A2.845,2.845,0,0,0,3.571,9.286v9.286A1.428,1.428,0,0,0,5,20H15a1.428,1.428,0,0,0,1.429-1.429V9.286A2.845,2.845,0,0,0,14.861,6.75ZM8.416,12.5a2.454,2.454,0,0,0-.487.554l-.3-.3a.486.486,0,0,1-.331.131.491.491,0,1,1,0-.983.439.439,0,0,1,.054.006.441.441,0,0,1,.879.044.436.436,0,0,1-.094.269ZM7.79,17.8a.492.492,0,0,1-.491-.491.439.439,0,0,1,.006-.054.441.441,0,0,1,.044-.88.432.432,0,0,1,.269.094l.344-.344.32.217v.5l-.129.131a.486.486,0,0,1,.131.331A.493.493,0,0,1,7.79,17.8Zm3.436-.983h-.49v-.491h-.491v.491H9.754v-.491H9.263v.491H8.771v-.736c-.85-.567-.736-.3-.736-1.719a1.964,1.964,0,1,1,3.929,0c0,1.389.134,1.139-.737,1.719Zm1.469.438a.439.439,0,0,1,.006.054.491.491,0,1,1-.852-.331l-.131-.131v-.5l.32-.217.344.344a.439.439,0,0,1,.269-.094.441.441,0,0,1,.044.88Zm.005-4.366a.491.491,0,0,1-.331-.131l-.3.3a2.454,2.454,0,0,0-.487-.554l.277-.277a.439.439,0,0,1-.094-.269.441.441,0,0,1,.88-.044A.439.439,0,0,1,12.7,11.9a.491.491,0,1,1,0,.982ZM15,10.023H5V9.286a1.423,1.423,0,0,1,.793-1.266L8.571,6.588v-3h2.857v3l2.784,1.434A1.419,1.419,0,0,1,15,9.286Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_65" data-name="Grupo 65">
+        <g id="Grupo_64" data-name="Grupo 64">
+          <circle id="Elipse_5" data-name="Elipse 5" cx="0.491" cy="0.491" r="0.491" transform="translate(8.526 14.36)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_67" data-name="Grupo 67">
+        <g id="Grupo_66" data-name="Grupo 66">
+          <path id="Caminho_95" data-name="Caminho 95" d="M10,15.342c-.136,0-.246.22-.246.491h.491C10.246,15.562,10.136,15.342,10,15.342Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_69" data-name="Grupo 69">
+        <g id="Grupo_68" data-name="Grupo 68">
+          <circle id="Elipse_6" data-name="Elipse 6" cx="0.491" cy="0.491" r="0.491" transform="translate(10.491 14.36)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

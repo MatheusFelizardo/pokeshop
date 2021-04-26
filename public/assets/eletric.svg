@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_16" data-name="Retângulo 16" width="20" height="20" transform="translate(41 86)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="eletric" transform="translate(-41 -86)" clip-path="url(#clip-path)">
+    <g id="forma-de-raio-preto" transform="translate(41 86)">
+      <g id="Grupo_70" data-name="Grupo 70">
+        <path id="Caminho_96" data-name="Caminho 96" d="M14.562,7.439h-2.5L15.726,0h-5.3L4.971,11.081H7.814L4.274,20Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
