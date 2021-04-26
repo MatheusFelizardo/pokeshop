@@ -12,7 +12,7 @@ ___
 
 ___
 
-<img src="https://i.ibb.co/DYtztZt/pokeshop.gif" width="1200">
+<img src="https://i.ibb.co/Pw07ny0/Screenshot-46.png" width="100%">
 
 ## :information_source: Sobre
 
