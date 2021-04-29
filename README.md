@@ -17,6 +17,7 @@ ___
 ## :information_source: Sobre
 
 Loja de Pokémon feita em desafio proposto pela B2W. </br>
+Site: https://pokeshop-matheus.netlify.app/
 
 ## :fire: Funcionalidades
 - Catálogo de produtos
